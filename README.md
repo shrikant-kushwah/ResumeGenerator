@@ -11,6 +11,7 @@ ReactJS Resume Generator which will generate customized Resume in few minutes on
 
 # Contact Us
 If you want to contact me, you can reach me through below handles.
+
 [LinkeDin](https://www.linkedin.com/in/shrikant-kushwah-5bb1911b2/)
 
 [Twitter](https://twitter.com/kushwa_shrikant)
