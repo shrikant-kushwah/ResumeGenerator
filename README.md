@@ -15,7 +15,7 @@ ReactJS Resume Generator which will generate customized Resume in few minutes on
 
 <img width="960" alt="dashboardfooter" src="https://github.com/shrikant-kushwah/ResumeGenerator/assets/96473205/fd84bdba-5121-4cc3-a66e-ee5063bc5c0a">
 
-
+Tech Stack: JavaScript, ReactJS, Chakra UI, ContextAPI, Vercel
 
 # Contact Us
 If you want to contact me, you can reach me through below handles.
