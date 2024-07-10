@@ -7,7 +7,8 @@ ReactJS Resume Generator which will generate customized Resume in few minutes on
 ## Deployed On: VERCEL
 
 ## Home Page
-![resumegen](https://github.com/shrikant-kushwah/ResumeGenerator/assets/96473205/042fd58a-56a5-40aa-99dc-403413259d44)
+![resumegen1](https://github.com/shrikant-kushwah/ResumeGenerator/assets/96473205/182a2854-d61e-4ca0-b729-e91c9cc6c8c8)
+
 
 # Contact Us
 If you want to contact me, you can reach me through below handles.
