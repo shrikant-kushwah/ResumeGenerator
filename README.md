@@ -1,6 +1,6 @@
 # Resume Generator
 
-ReactJS Basic Resume Generator which will generate customized Resume in few minutes on your requirements. Live resume editor.
+ReactJS Resume Generator which will generate customized Resume in few minutes on your requirements. Live resume editor.
 
 [Visit Now](https://resume-generator-steel.vercel.app/)
 
